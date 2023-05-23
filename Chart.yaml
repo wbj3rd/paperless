@@ -5,9 +5,9 @@ annotations:
       description: Update ghcr.io/paperless-ngx/paperless-ngx Docker tag to v1.14.5
   artifacthub.io/links: |-
     - name: App Source
-      url: https://github.com/paperless-ngx/paperless-ngx
+      url: https://github.com/wbj3rd/paperless
     - name: Chart Source
-      url: https://raw.githubusercontent.com/wbj3rd/paperless/main/Chart.yaml
+      url: hhttps://github.com/wbj3rd/paperless/Chart.yaml
 apiVersion: v2
 appVersion: 1.14.5
 dependencies:
